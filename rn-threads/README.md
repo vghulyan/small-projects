@@ -26,6 +26,8 @@ app.json - add:
 
 ```
 $> npm i lottie-react-native
+$> npx expo install expo-image
+$> npm i @faker-js/faker --save-dev
 ```
 
 ### Build for ios or android
@@ -39,3 +41,7 @@ $> npx expo prebuild --platform ios
 ```
 $> npm run ios
 ```
+
+## Screenshot
+
+![Screenshot 2](./assets/screenshots/Screenshot.png)
